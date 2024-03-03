@@ -1,6 +1,7 @@
 Minesweeper Application
 
 Description:
+
 The Minesweeper Application is a simple desktop game built using C# and Windows Forms. The game follows the traditional Minesweeper gameplay, where the player has to uncover tiles on a grid while avoiding hidden bombs. If a bomb is uncovered, the game ends. The objective is to uncover all tiles without detonating any bombs.
 
 Features:
